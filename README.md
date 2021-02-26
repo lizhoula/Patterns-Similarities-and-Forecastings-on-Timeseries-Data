@@ -1,0 +1,1 @@
+# Patterns-Similarities-and-Forecastings-on-Timeseries-Data
